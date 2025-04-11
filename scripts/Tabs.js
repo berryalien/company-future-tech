@@ -121,7 +121,7 @@ class Tabs {
       return
     }
 
-    action ? .()
+    action ?.()
   }
 
   bindEvents() {
